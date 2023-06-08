@@ -15,7 +15,7 @@ Create a command-line tool that accepts a city's name and returns the current we
 
 ## Deliverables
 
-- Presentation: It should should consist of the Business Challenge /Use Cases + Proposed Solution + High level architecture + Mention of usage of Github Copilot [(Click here to download sample PPT)](https://www.techgig.com/files/contest_upload_files/CG23-Github_Copilot_U_Hackathon.pptx)
+- Presentation: It should should consist of the Business Challenge /Use Cases + Proposed Solution + High level architecture + Mention of usage of Github Copilot [(Click here to download sample PPT)](https://www.techgig.com/files/contest_upload_files/CG23-Github_Copilot_U_Hackathon.pptx). This is the sample ppt which contributors have to use for representation.
 - Include supporting diagrams, screenshots, if any
 
 ## Idea/Selection Criteria for the Jury
