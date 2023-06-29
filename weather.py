@@ -6,7 +6,7 @@ app = typer.Typer()
 
 @app.command()
 def weather(city: str):
-    api_key = "84d1ef2a9c7d08488989e61cb18eafb2"  
+    api_key = "Your open weather api"  
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
 
     try:
