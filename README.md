@@ -45,3 +45,7 @@ Create a command-line tool that accepts a city's name and returns the current we
 This was the problem statement given to us by Microsoft to build and we were given 2 months to build this.
 
 We are going to use the free API given by [Open Weather](https://openweathermap.org/) organisation to build this project
+
+## UI
+
+The UI based version of this project will be pushed on a different branch. Please check the UI branch to checkout the UI version of this project.
